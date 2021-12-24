@@ -2,9 +2,6 @@
 
 **First Atlantic Commerce driver for the Omnipay PHP payment processing library**
 
-[![Source Code](http://img.shields.io/badge/source-strikewood/omnipay--first--atlantic--commerce-blue.svg?style=flat-square)](https://github.com/strikewood/omnipay-first-atlantic-commerce) [![Latest Version](https://img.shields.io/github/release/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://github.com/strikewood/omnipay-first-atlantic-commerce/releases) [![Software License](https://img.shields.io/github/license/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://github.com/Strikewood/omnipay-first-atlantic-commerce/blob/master/LICENSE)
-
-[![Build Status](https://img.shields.io/scrutinizer/build/g/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://scrutinizer-ci.com/g/Strikewood/omnipay-first-atlantic-commerce/build-status/master) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://scrutinizer-ci.com/g/Strikewood/omnipay-first-atlantic-commerce/?branch=master) [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://scrutinizer-ci.com/g/Strikewood/omnipay-first-atlantic-commerce/?branch=master) [![Total Downloads](https://img.shields.io/packagist/dt/strikewood/omnipay-first-atlantic-commerce.svg?style=flat-square)](https://packagist.org/packages/Strikewood/omnipay-first-atlantic-commerce/)
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements First Atlantic Commerce support for Omnipay.
@@ -88,5 +85,5 @@ If you want to keep up to date with release anouncements, discuss ideas for the 
 or ask more detailed questions, there is also a [mailing list](https://groups.google.com/forum/#!forum/omnipay) which
 you can subscribe to.
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/Strikewood/omnipay-first-atlantic-commerce/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/landofcoder/omnipay-first-atlantic-commerce/issues),
 or better yet, fork the library and submit a pull request.
